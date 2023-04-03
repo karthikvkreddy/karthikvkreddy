@@ -56,7 +56,7 @@ I am a Full Stack Developer and cloud practitioner <img src="https://media.giphy
 
 ---
 
-### 🗃️ : My Projects :
+### 🗃️ My Projects :
 - #### Task Manager 
   -  `Tech stack used`: NodeJS, MongoDB
   -  [link to the project](https://github.com/karthikvkreddy/task-manager-app-meanstack)
