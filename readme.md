@@ -52,4 +52,15 @@ I am a Full Stack Developer and cloud practitioner <img src="https://media.giphy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikvkreddy)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+### 🗃️ : My Projects :
+- Task Manager 
+  -  Tech stack used: NodeJS, MongoDB
+  -  [link to the project](https://github.com/karthikvkreddy/task-manager-app-meanstack)
+- Kubernetes Learning repo
+  - Tech stack used: AWS, Docker, EKS (Elastic Kubernetes Service)
+  - [link to the project](https://github.com/karthikvkreddy/A_Start_to_EKS)
+- BEST CLASSIFIER TO PREDICT LOAN CASE
+  - Tech stack used: Python, Machine Learning
+  - [link to the project](https://github.com/karthikvkreddy/Best_Classifier)
