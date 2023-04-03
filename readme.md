@@ -44,3 +44,12 @@ I am a Full Stack Developer and cloud practitioner <img src="https://media.giphy
    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Mulesoft" alt="mulesoft" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karthikvkreddy)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikvkreddy)](https://github.com/anuraghazra/github-readme-stats)
+
+
