@@ -60,7 +60,7 @@ I am a Full Stack Developer and cloud practitioner <img src="https://media.giphy
 ### 🥇 Certifications :
  
  <div id="badges">
-  <a href="https://www.linkedin.com/in/karthik-kumar-reddy-v">
+  <a href="https://www.credly.com/badges/3ecbc234-6f5a-4739-87d7-67226936ceaf">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"  title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   </a>
 </div>
