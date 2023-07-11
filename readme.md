@@ -65,7 +65,7 @@ I am a Full Stack Developer and cloud practitioner <img src="https://media.giphy
      </a>
 </div>
 
- 
+---
 
 ### 🗃️ My Projects :
 - #### Task Manager 
