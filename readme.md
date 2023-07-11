@@ -83,3 +83,6 @@ I am a Full Stack Developer and cloud practitioner <img src="https://media.giphy
 - #### Ecommerce website (status: In Progress)
   - `Tech stack used`: NodeJS,Angular(PrimeNG),MongoDB
   - [link to the project](https://github.com/karthikvkreddy/eshop-mean-stack)
+- #### Learning Design patterns and case study
+  - `Tech stack used`: Typescipt
+  - [link to the project](https://github.com/karthikvkreddy/learn_design_patterns_ts)
