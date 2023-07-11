@@ -74,9 +74,12 @@ I am a Full Stack Developer and cloud practitioner <img src="https://media.giphy
 - #### Kubernetes Learning repo
   - `Tech stack used`: AWS, Docker, EKS (Elastic Kubernetes Service)
   - [link to the project](https://github.com/karthikvkreddy/A_Start_to_EKS)
-- #### Product management Application 
+- #### Product management Application (status: In Progress)
   - `Tech stack used`: Angular, Bootstrap, Typescript
   - [link to the project](https://github.com/karthikvkreddy/angular_app)
 - #### BEST CLASSIFIER TO PREDICT LOAN CASE
   - `Tech stack used`: Python, Machine Learning
   - [link to the project](https://github.com/karthikvkreddy/Best_Classifier)
+- #### Ecommerce website (status: In Progress)
+  - `Tech stack used`: NodeJS,Angular(PrimeNG),MongoDB
+  - [link to the project](https://github.com/karthikvkreddy/eshop-mean-stack)
