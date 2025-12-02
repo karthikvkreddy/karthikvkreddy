@@ -21,8 +21,8 @@
 ---
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer and cloud practitioner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a SRE and cloud practitioner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: Expertise in AWS, Kubernetes, Terraform, CI/CD automation, and monitoring systems. Proven track record in incident response, cost optimization, and platform migrations. Passionate about building secure, scalable, and resilient systems
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
