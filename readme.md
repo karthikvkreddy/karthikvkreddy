@@ -63,6 +63,10 @@ I am a SRE and cloud practitioner <img src="https://media.giphy.com/media/WUlplc
   <a href="https://www.credly.com/badges/3ecbc234-6f5a-4739-87d7-67226936ceaf">
       <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"  title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
      </a>
+    <a>
+      <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/dva-badge-resized.5e17ff1099d56f6e57a2dab8c7abf78f46f3150a.png" title="NodeJS" alt="NodeJS" width="70" height="70"/>&nbsp;
+     </a>
+
 </div>
 
 ---
