@@ -1,5 +1,3 @@
-<img src="https://karthikvkreddy.github.io/images/wave.gif" width="22" alt="">
-
 # Karthik Kumar Reddy V
 
 Senior SRE at Visa in Bengaluru. Previously Myntra and Airbus.
