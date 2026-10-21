@@ -12,12 +12,7 @@ I work on Kubernetes, AWS, Terraform, and reliability.
 
 ### ChangeRadar
 
-Paste a Kubernetes or Helm change. Rank lookalike incidents. Run it in the [browser](https://huggingface.co/spaces/karthikreddyv/changeradar) or as a local CLI.
-
-```bash
-helm diff upgrade checkout ./chart -f values-prod.yaml \
-  | python -m changeradar score-diff
-```
+ChangeRadar is an open source tool that scores a Kubernetes or Helm change against past incidents. It embeds the proposed change, or a helm/kubectl diff, and ranks lookalike postmortems. A high score means the change looks like a known incident, not that it will page in production. You can try it in the browser, run it as a CLI, or point it at your own incident JSONL.
 
 [Live demo](https://huggingface.co/spaces/karthikreddyv/changeradar) · [Dataset](https://huggingface.co/datasets/karthikreddyv/changeradar-incidents) · [Code](https://github.com/karthikvkreddy/changeradar)
 
