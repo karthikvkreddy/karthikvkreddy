@@ -1,92 +1,43 @@
+# Karthik Kumar Reddy V
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+**I retrieve the last outage that looks like your Helm diff.**
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/karthik-kumar-reddy-v">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+Senior SRE @ Visa · ex-Myntra, Airbus · Bengaluru  
+Building [**ChangeRadar**](https://huggingface.co/spaces/karthikreddyv/changeradar) — sentence embeddings over postmortems. A high score means *this looks like a known incident*, not *this will page*.
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-### :man_technologist: About Me :
-
-I am a SRE and cloud practitioner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Expertise in AWS, Kubernetes, Terraform, CI/CD automation, and monitoring systems. Proven track record in incident response, cost optimization, and platform migrations. Passionate about building secure, scalable, and resilient systems
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karthik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-kumar-reddy-v)
+[Live demo](https://huggingface.co/spaces/karthikreddyv/changeradar) · [Dataset](https://huggingface.co/datasets/karthikreddyv/changeradar-incidents) · [Code](https://github.com/karthikvkreddy/changeradar) · [Site](https://karthikvkreddy.github.io) · [LinkedIn](https://www.linkedin.com/in/karthik-kumar-reddy-v)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## ChangeRadar
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Mulesoft" alt="mulesoft" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+Paste a Kubernetes / Helm change. Rank lookalike incidents. Run it in the [browser](https://huggingface.co/spaces/karthikreddyv/changeradar) or as a local CLI.
 
----
+```bash
+helm diff upgrade checkout ./chart -f values-prod.yaml \
+  | python -m changeradar score-diff
+```
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karthikvkreddy)](https://git.io/streak-stats)
+| What it is | What it is not |
+| --- | --- |
+| MiniLM embeddings + cosine ranking | An outage probability |
+| `helm diff` / `kubectl diff` parser | A replacement for review |
+| BYO incident JSONL (no training) | Fine-tuned on your org |
+| Public seed: 1,513 labeled cases | Production incident dumps |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikvkreddy)](https://github.com/anuraghazra/github-readme-stats)
+Hub: [`karthikreddyv/changeradar`](https://huggingface.co/spaces/karthikreddyv/changeradar) · [`karthikreddyv/changeradar-incidents`](https://huggingface.co/datasets/karthikreddyv/changeradar-incidents)
 
 ---
 
-### 🥇 Certifications :
- 
- <div id="badges">
-  <a href="https://www.credly.com/badges/3ecbc234-6f5a-4739-87d7-67226936ceaf">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"  title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-     </a>
-    <a>
-      <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/dva-badge-resized.5e17ff1099d56f6e57a2dab8c7abf78f46f3150a.png" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
-     </a>
+## Stack I actually use
 
-</div>
+`Kubernetes` `Helm` `AWS EKS` `Terraform` `Python` `sentence-transformers` `Prometheus` `Grafana` `CI/CD`
+
+CKA · AWS Certified Developer – Associate
 
 ---
 
-### 🗃️ My Projects :
-- #### Task Manager 
-  -  `Tech stack used`: NodeJS, MongoDB
-  -  [link to the project](https://github.com/karthikvkreddy/task-manager-app-meanstack)
-- #### Kubernetes Learning repo
-  - `Tech stack used`: AWS, Docker, EKS (Elastic Kubernetes Service)
-  - [link to the project](https://github.com/karthikvkreddy/A_Start_to_EKS)
-- #### Product management Application (status: In Progress)
-  - `Tech stack used`: Angular, Bootstrap, Typescript
-  - [link to the project](https://github.com/karthikvkreddy/angular_app)
-- #### BEST CLASSIFIER TO PREDICT LOAN CASE
-  - `Tech stack used`: Python, Machine Learning
-  - [link to the project](https://github.com/karthikvkreddy/Best_Classifier)
-- #### Ecommerce website (status: In Progress)
-  - `Tech stack used`: NodeJS,Angular(PrimeNG),MongoDB
-  - [link to the project](https://github.com/karthikvkreddy/eshop-mean-stack)
-- #### Learning Design patterns and case study
-  - `Tech stack used`: Typescipt
-  - [link to the project](https://github.com/karthikvkreddy/learn_design_patterns_ts)
+## Elsewhere
+
+- Hugging Face: [karthikreddyv](https://huggingface.co/karthikreddyv)
+- Notes: [CKA](https://github.com/karthikvkreddy/Kubernetes_CKA) · [CKAD](https://github.com/karthikvkreddy/Kubernetes_CKAD)
