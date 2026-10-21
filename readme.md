@@ -4,7 +4,7 @@
 
 Senior SRE at Visa in Bengaluru. Previously Myntra and Airbus.
 
-I work on Kubernetes, AWS, Terraform, and reliability. 🌙
+I work on Kubernetes, AWS, Terraform, and reliability.
 
 [Site](https://karthikvkreddy.github.io) · [LinkedIn](https://www.linkedin.com/in/karthik-kumar-reddy-v) · [Hugging Face](https://huggingface.co/karthikreddyv) · [Topmate](https://topmate.io/karthikvk/1920474)
 
