@@ -12,8 +12,6 @@ I work on Kubernetes, AWS, Terraform, and reliability.
 
 ## 📡 Work
 
-<img src="https://karthikvkreddy.github.io/images/radar.gif" width="28" alt="">
-
 ### ChangeRadar
 
 Paste a Kubernetes or Helm change. Rank lookalike incidents. Run it in the [browser](https://huggingface.co/spaces/karthikreddyv/changeradar) or as a local CLI.
