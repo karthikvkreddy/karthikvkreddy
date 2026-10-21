@@ -1,17 +1,18 @@
 # Karthik Kumar Reddy V
 
-**I retrieve the last outage that looks like your Helm diff.**
+Senior SRE at Visa in Bengaluru. Previously Myntra and Airbus.
 
-Senior SRE @ Visa · ex-Myntra, Airbus · Bengaluru  
-Building [**ChangeRadar**](https://huggingface.co/spaces/karthikreddyv/changeradar) — sentence embeddings over postmortems. A high score means *this looks like a known incident*, not *this will page*.
+I work on Kubernetes, AWS, Terraform, and reliability.
 
-[Live demo](https://huggingface.co/spaces/karthikreddyv/changeradar) · [Dataset](https://huggingface.co/datasets/karthikreddyv/changeradar-incidents) · [Code](https://github.com/karthikvkreddy/changeradar) · [Site](https://karthikvkreddy.github.io) · [LinkedIn](https://www.linkedin.com/in/karthik-kumar-reddy-v)
+[Site](https://karthikvkreddy.github.io) · [LinkedIn](https://www.linkedin.com/in/karthik-kumar-reddy-v) · [Hugging Face](https://huggingface.co/karthikreddyv)
 
 ---
 
-## ChangeRadar
+## Work
 
-Paste a Kubernetes / Helm change. Rank lookalike incidents. Run it in the [browser](https://huggingface.co/spaces/karthikreddyv/changeradar) or as a local CLI.
+### ChangeRadar
+
+Paste a Kubernetes or Helm change. Rank lookalike incidents. Run it in the [browser](https://huggingface.co/spaces/karthikreddyv/changeradar) or as a local CLI.
 
 ```bash
 helm diff upgrade checkout ./chart -f values-prod.yaml \
@@ -25,15 +26,15 @@ helm diff upgrade checkout ./chart -f values-prod.yaml \
 | BYO incident JSONL (no training) | Fine-tuned on your org |
 | Public seed: 1,513 labeled cases | Production incident dumps |
 
-Hub: [`karthikreddyv/changeradar`](https://huggingface.co/spaces/karthikreddyv/changeradar) · [`karthikreddyv/changeradar-incidents`](https://huggingface.co/datasets/karthikreddyv/changeradar-incidents)
+[Live demo](https://huggingface.co/spaces/karthikreddyv/changeradar) · [Dataset](https://huggingface.co/datasets/karthikreddyv/changeradar-incidents) · [Code](https://github.com/karthikvkreddy/changeradar)
 
 ---
 
 ## Stack I actually use
 
-`Kubernetes` `Helm` `AWS EKS` `Terraform` `Python` `sentence-transformers` `Prometheus` `Grafana` `CI/CD`
+`Kubernetes` `Helm` `AWS EKS` `Terraform` `Python` `Prometheus` `Grafana` `CI/CD`
 
-CKA · AWS Certified Developer – Associate
+CKA · AWS Certified Developer Associate
 
 ---
 
