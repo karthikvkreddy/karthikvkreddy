@@ -18,7 +18,9 @@ ChangeRadar is an open source tool that scores a Kubernetes or Helm change again
 
 ### 🎯 SRE / DevOps interview prep
 
-45 minute 1:1 on [Topmate](https://topmate.io/karthikvk/1920474). Scenario questions on AWS, Linux, Kubernetes, and incidents. How to structure answers, not a tools walkthrough.
+Most interviews are not a kubectl quiz. They are a short test of how you think when something is broken. In 45 minutes we practice the questions interviewers actually ask, then we shape your answers so they are clear, calm, and easy to follow.
+
+[Book on Topmate](https://topmate.io/karthikvk/1920474)
 
 ---
 
